@@ -24,7 +24,7 @@
 <a href="https://discord.gg/cgmba#9913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cgmba#9913" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="10%">
